@@ -1,0 +1,7 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/python-3.10","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/09288e4664ea-runtime","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/0b57f359aa95-runtime","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/7bdbecac4b80-runtime","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/cd0e435855e1-runtime","time":"2024-09-26T15:10:50Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/eec425b8dfb4-runtime","time":"2024-09-26T15:10:50Z"}
